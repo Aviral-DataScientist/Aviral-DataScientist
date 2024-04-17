@@ -1,3 +1,5 @@
+👋 Hi, I'm Aviral Agarwal!
+
 ![image](https://github.com/Aviral-DataScientist/Aviral-DataScientist/assets/167323832/c8a5fb18-8adb-4eff-b081-062cdfffee7a)
 
 I'm a data analyst with a passion for leveraging data to drive intelligent decisions and drive businesses forward. Currently, I'm deepening my expertise in Big Data Analytics through a Masters program at SGH Warsaw School of Economics. Here, I'm learning advanced techniques and tools for data analysis preparing myself for the next big challenges in the data world.
