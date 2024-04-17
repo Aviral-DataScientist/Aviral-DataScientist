@@ -21,5 +21,5 @@ I love exploring data analysis and statistics in various sports! Whether it's pr
 ### 🤝 Let's Connect!
 Feel free to reach out if you'd like to chat about data, analytics, or anything tech-related!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue) https://www.linkedin.com/in/aviral-agarwal-data-analyst/
+https://www.linkedin.com/in/aviral-agarwal-data-analyst/
 
